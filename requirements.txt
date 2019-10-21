@@ -15,4 +15,4 @@ shortuuid==0.5.0
 six==1.10.0
 tabulate==0.7.7
 tf==1.0.0
-urllib3==1.22
+urllib3==1.24.2
