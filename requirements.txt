@@ -6,7 +6,7 @@ clint==0.5.1
 floyd-cli==0.10.7
 idna==2.6
 marshmallow==2.13.6
-numpy==1.13.1
+numpy==1.21.0
 pathlib2==2.3.0
 pytz==2017.2
 requests==2.18.4
